@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\bin\Debug\OTFI1_Parinas_DigitReversal.exe.config
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\bin\Debug\OTFI1_Parinas_DigitReversal.exe
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\bin\Debug\OTFI1_Parinas_DigitReversal.pdb
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.Properties.Resources.resources
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.exe
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.pdb
+C:\Users\gabriel\Desktop\OTFI1_Parinas_DigitReversal\obj\Debug\OTFI1_Parinas_DigitReversal.Form1.resources
